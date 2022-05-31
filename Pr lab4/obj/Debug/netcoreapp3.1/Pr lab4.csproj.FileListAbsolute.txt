@@ -1,0 +1,14 @@
+C:\Users\Данило\source\repos\Pr lab4\bin\Debug\netcoreapp3.1\Pr lab4.exe
+C:\Users\Данило\source\repos\Pr lab4\bin\Debug\netcoreapp3.1\Pr lab4.deps.json
+C:\Users\Данило\source\repos\Pr lab4\bin\Debug\netcoreapp3.1\Pr lab4.runtimeconfig.json
+C:\Users\Данило\source\repos\Pr lab4\bin\Debug\netcoreapp3.1\Pr lab4.runtimeconfig.dev.json
+C:\Users\Данило\source\repos\Pr lab4\bin\Debug\netcoreapp3.1\Pr lab4.dll
+C:\Users\Данило\source\repos\Pr lab4\bin\Debug\netcoreapp3.1\Pr lab4.pdb
+C:\Users\Данило\source\repos\Pr lab4\obj\Debug\netcoreapp3.1\Pr lab4.csproj.AssemblyReference.cache
+C:\Users\Данило\source\repos\Pr lab4\obj\Debug\netcoreapp3.1\Pr lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данило\source\repos\Pr lab4\obj\Debug\netcoreapp3.1\Pr lab4.AssemblyInfoInputs.cache
+C:\Users\Данило\source\repos\Pr lab4\obj\Debug\netcoreapp3.1\Pr lab4.AssemblyInfo.cs
+C:\Users\Данило\source\repos\Pr lab4\obj\Debug\netcoreapp3.1\Pr lab4.csproj.CoreCompileInputs.cache
+C:\Users\Данило\source\repos\Pr lab4\obj\Debug\netcoreapp3.1\Pr lab4.dll
+C:\Users\Данило\source\repos\Pr lab4\obj\Debug\netcoreapp3.1\Pr lab4.pdb
+C:\Users\Данило\source\repos\Pr lab4\obj\Debug\netcoreapp3.1\Pr lab4.genruntimeconfig.cache
